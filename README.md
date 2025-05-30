@@ -5,9 +5,10 @@ Tujuan utama adalah mengevaluasi performa kedua metode dalam meningkatkan kualit
 -Tingkat Noise
 -Standar Deviasi (indikator kontras)
 
-# Struktur File
+## Struktur File
 .
 ├── cctv_contrast_comparison.ipynb   # Notebook utama (untuk dijalankan di Google Colab)
+
 ├── README.md                        # Dokumentasi proyek
 
 # Kebutuhan
